@@ -4,7 +4,7 @@
 
 Download the latest IPMIView software from SuperMicro (to your home directories "Downloads" folder, aka `~/Downloads`:
 
-[https://ftp.supermicro.com/wftp/utility/IPMIView/Linux/](https://ftp.supermicro.com/wftp/utility/IPMIView/Linux/)
+[https://www.supermicro.com/wdl/utility/IPMIView/Linux/](https://www.supermicro.com/wdl/utility/IPMIView/Linux/)
 
 Download the code and execute the script to unarchive the linux package and create the Application Bundle:
 ```bash
